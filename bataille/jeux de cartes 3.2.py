@@ -1,5 +1,8 @@
 from random import *
 from turle import *
+from math import *
+
+
 
 """Definition"""
 
